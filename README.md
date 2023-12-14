@@ -5,11 +5,11 @@
 
 ### 사용 기술 스택
 ---
-SpringBoot
-Java
-MySQL
-JPA
-Git
+SpringBoot<br/>
+Java<br/>
+MySQL<br/>
+JPA<br/>
+Git<br/>
 
 ### 프로젝트 기능 및 설계
 ---
